@@ -14,10 +14,6 @@
 
 PROJECT DESCRIPTION :
 
-Absolutely! Here's a **400-word project description** you can add to your Python script for Task 1 – API Integration and Data Visualization:
-
----
-
 ### 📝 **Project Description: Weather Data Visualization using Python**
 
 This Python-based mini project demonstrates a foundational yet insightful implementation of **data visualization** techniques applied to weather data across five major Indian cities — **Chennai, Bangalore, Mumbai, Delhi, and Kolkata**. It is a part of **Task 1** under the internship program at **Codetech IT Solutions**, carried out by **Rishan N**, a student of **Rajalakshmi Institute of Technology**.
@@ -39,6 +35,8 @@ The script is organized, cleanly documented, and beginner-friendly, making it a 
 
 In conclusion, this task not only demonstrates Rishan’s ability to use Python for visualization but also reflects key programming skills, attention to detail, and an understanding of data interpretation. The project lays the foundation for more advanced applications, including API integration, live weather data collection, or dashboard deployment in future tasks.
 
+*OUTPUT*:
 
+![Image](https://github.com/user-attachments/assets/75a3e9dd-9390-4c96-9a60-8dc5459c83d8)
 
 
